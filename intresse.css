@@ -1,0 +1,21 @@
+body {
+    background-color: #87CEFA;
+    color: white;
+    text-align: center;
+}
+h3 {
+    background-color: #FFB6C1;
+    color: white;
+    padding: 30px;
+    margin-top: 0%;
+}
+footer a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+footer {
+    margin-top: 15%;
+    display: auto;
+    background-color: #FFB6C1
+}

@@ -1,0 +1,14 @@
+body {
+    background-image: url(back.png);
+    color: white;
+}
+p {
+    font-size: 200%;
+    text-align: center;
+}
+a :hover {
+    font-size: 500%;
+}
+h3 {
+    text-align: center;
+}

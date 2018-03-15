@@ -1,0 +1,24 @@
+body {
+    background-image: url(back.png);
+    color: white;
+}
+.gallery {
+    float: left;
+    width: 280px;
+    margin: 5px;
+    border: 1px solid white;
+
+
+}
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+.des {
+    text-align: center;
+    padding: 15px;
+    height: 50px;
+}
+.gallery:hover {
+    border: 1px solid #777;
+}
